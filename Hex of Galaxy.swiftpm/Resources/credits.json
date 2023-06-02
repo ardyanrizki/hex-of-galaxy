@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Fonts",
+    "list": [
+      {
+        "title": "Press Start 2P font",
+        "linkLabel": "Google Fonts",
+        "url": "https://fonts.google.com/specimen/Press+Start+2P"
+      }
+    ]
+  },
+  {
+    "category": "Icons",
+    "list": [
+      {
+        "title": "Coin & Heart icon",
+        "linkLabel": "Twitter Twemoji",
+        "url": "https://twemoji.twitter.com/"
+      },
+      {
+        "title": "Question mark, Arrows, & Hand tap symbol",
+        "linkLabel": "Apple SF Symbols",
+        "url": "https://developer.apple.com/sf-symbols/"
+      }
+    ]
+  },
+  {
+    "category": "Images",
+    "list": [
+      {
+        "title": "Meteor pixel image",
+        "linkLabel": "StreamlineHQ",
+        "url": "https://www.streamlinehq.com/icons/pixel"
+      },
+      {
+        "title": "Space background image",
+        "linkLabel": "Freepik",
+        "url": "https://www.freepik.com/free-vector/cartoon-galaxy-background_14350820.htm#query=space%20background&position=8&from_view=search&track=ais"
+      },
+      {
+        "title": "All planets images",
+        "linkLabel": "Freepik",
+        "url": "https://www.freepik.com/free-vector/solar-system-infographic-flat-design-with-planets_6554060.htm#query=planet&position=31&from_view=keyword&track=sph"
+      }
+    ]
+  }
+]

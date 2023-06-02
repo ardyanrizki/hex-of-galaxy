@@ -1,0 +1,164 @@
+[
+  {
+    "order": 0,
+    "name": "Mercury",
+    "hsb": [
+        {
+        "h": 33,
+        "s": 41,
+        "b": 93
+        },
+        {
+        "h": 29,
+        "s": 65,
+        "b": 86
+        }
+    ],
+    "hex": ["EDC18C", "DC924D"],
+    "headline": "The Swiftest Planet in Our Solar System",
+    "trivia": "The closest planet to the Sun, Mercury is a small, rocky world that is scorching hot on one side and freezing cold on the other. It's so hot that lead would melt on its surface!"
+  },
+  {
+    "order": 1,
+    "name": "Venus",
+    "hsb": [
+        {
+            "h": 28,
+            "s": 80,
+            "b": 83
+        },
+        {
+            "h": 18,
+            "s": 96,
+            "b": 69
+        }
+    ],
+    "hex": ["D47A2B", "B03A07"],
+    "headline": "Earth's Hottest & Brightest Neighbor",
+    "trivia": "Known as Earth's sister planet, Venus is similar in size and composition, but is shrouded in a thick, toxic atmosphere that traps in heat, making it the hottest planet in the solar system. It's also the only planet that rotates clockwise."
+  },
+  {
+    "order": 2,
+    "name": "Earth",
+    "hsb": [
+        {
+            "h": 190,
+            "s": 100,
+            "b": 90
+        },
+        {
+            "h": 98,
+            "s": 41,
+            "b": 79
+        }
+    ],
+    "hex": ["00C0E6", "95C977"],
+    "headline": "The Only Planet Known to Support Life",
+    "trivia": "Our home planet, Earth is a watery world teeming with life. It has an atmosphere that protects us from harmful radiation and provides us with the oxygen we need to breathe."
+  },
+  {
+    "order": 3,
+    "name": "Mars",
+    "hsb": [
+        {
+            "h": 9,
+            "s": 99,
+            "b": 73
+        },
+        {
+            "h": 21,
+            "s": 94,
+            "b": 85
+        }
+    ],
+    "hex": ["B91C01", "D9550E"],
+    "headline": "Possible Future Home for Humans",
+    "trivia": "The 'Red Planet' is a dusty, desert-like world with a thin atmosphere and a history of water on its surface. It's also home to the largest volcano in the solar system, Olympus Mons."
+  },
+  {
+    "order": 4,
+    "name": "Jupiter",
+    "hsb": [
+        {
+            "h": 31,
+            "s": 61,
+            "b": 87
+        },
+        {
+            "h": 26,
+            "s": 75,
+            "b": 79
+        },
+        {
+            "h": 24,
+            "s": 58,
+            "b": 100
+        }
+    ],
+    "hex": ["DD9B56", "CA7432", "FFA86C"],
+    "headline": "Giant of Our Solar System",
+    "trivia": "The largest planet in the solar system, Jupiter is a gas giant with colorful stripes and swirling storms, including the famous Great Red Spot. It has over 70 moons, including the four largest known as the Galilean moons."
+  },
+  {
+    "order": 5,
+    "name": "Saturn",
+    "hsb": [
+        {
+            "h": 38,
+            "s": 48,
+            "b": 88
+        },
+        {
+            "h": 38,
+            "s": 45,
+            "b": 76
+        },
+        {
+            "h": 38,
+            "s": 42,
+            "b": 65
+        }
+    ],
+    "hex": ["E1BA75", "C2A26A", "A68D61"],
+    "headline": "The Ringed Planet with Spectacular Moons",
+    "trivia": "Famous for its spectacular rings made up of chunks of ice and rock, Saturn is another gas giant with a complex system of moons and moonlets. It's also the least dense planet in the solar system, meaning it would float in water if you could find a big enough bathtub!"
+  },
+  {
+    "order": 6,
+    "name": "Uranus",
+    "hsb": [
+        {
+        "h": 181,
+        "s": 58,
+        "b": 80
+        },
+        {
+        "h": 181,
+        "s": 82,
+        "b": 65
+        }
+    ],
+    "hex": ["57CBCD", "1EA2A5"],
+    "headline": "The Tilted Planet with Unique Magnetic Field",
+    "trivia": "Uranus is an icy giant that spins on its side, with its poles pointing almost directly at the Sun. It has a strange magnetic field and a system of rings and moons that orbit perpendicular to its equator."
+  },
+  {
+    "order": 7,
+    "name": "Neptune",
+    "hsb": [
+        {
+        "h": 200,
+        "s": 59,
+        "b": 89
+        },
+        {
+          "h": 206,
+          "s": 84,
+          "b": 78
+        }
+    ],
+    "hex": ["5CB5E2", "2180C8"],
+    "headline": "The Blue Planet with Fierce Winds & Storms",
+    "trivia": "The farthest planet from the Sun, Neptune is also an icy giant with a deep blue color due to the methane in its atmosphere. It has the strongest winds in the solar system, with gusts that can reach over 1,000 miles per hour!"
+  }
+]
